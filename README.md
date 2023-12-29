@@ -1,1 +1,3 @@
-# Computer-Vision-Edge-Detection-Operators
+# Computer-Vision
+## Visual-Machinery-Edge-Detection-Operators
+In this exploration of edge detection techniques, a variety of operators, including Sobel, Laplacian, Canny, Kirsch, and Prewitt, were applied to an image to unveil the intricate details of edges. Through convolution and mathematical computations, each operator contributed to highlighting specific features within the image. The results were then contrasted and combined, showcasing the nuances of each operator's performance. Notably, the Canny operator emerged as the most accurate, while Kirsch operators added emphasis to diagonal edges. The study concludes with a thoughtful reflection on the strengths and limitations of each operator, emphasizing the importance of selecting the most suitable technique based on specific application requirements.
